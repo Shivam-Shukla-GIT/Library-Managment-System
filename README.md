@@ -95,6 +95,9 @@ To use the Library Management System, follow these steps:
 5.  Book IDs are unique identifiers for books.
 6.  Members are identified by their phone numbers, which must be unique.
 7.  The application does not persist data; all data is stored in memory during runtime.
+8.  books hashmap has bookID and book details as key value pair.
+9.  members hashmap has phoneNo and member detaisl as key value pair.
+10.  borrowed books hashmap has memberID and bookID borrowed by member as key value pair.
 
 ## Credits
 
